@@ -1,0 +1,11 @@
+{
+  "high_score": 75,
+  "settings": {
+    "sound": true,
+    "music": false,
+    "grid": true,
+    "particles": true,
+    "screen_shake": true,
+    "difficulty": "Normal"
+  }
+}
